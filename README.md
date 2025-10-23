@@ -44,4 +44,4 @@ This syllabus details the specific technologies and concepts covered in my learn
 * **Programming Language:** Python
 * **Core Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 * **Database:** SQL (or SQLite/PostgreSQL)
-* **Development Environment:** Jupyter Notebooks, VS Code
+* **Development Environment:** VS Code
